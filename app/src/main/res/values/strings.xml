@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CardDelivery</string>
+    <string-array name="paySys">
+        <item>Visa</item>
+        <item>Mastercard</item>
+    </string-array>
+    <string-array name="valuta">
+        <item>Рубль</item>
+        <item>Доллар</item>
+        <item>Евро</item>
+    </string-array>
+    <string-array name="document">
+        <item>Паспорт гражданина РФ</item>
+        <item>Военный билет</item>
+        <item>Вид на жительство в РФ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "818369493294",
+    "firebase_url": "https://carddelivery-e3f40.firebaseio.com",
+    "project_id": "carddelivery-e3f40",
+    "storage_bucket": "carddelivery-e3f40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818369493294:android:ed91b6b60ca480ce8a22bf",
+        "android_client_info": {
+          "package_name": "com.example.carddelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818369493294-p7lna5mgh7sm732ig2gv0masvi2npjau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carddelivery",
+            "certificate_hash": "6fe5b0e4756fc398149b3f16a1034c7f03b38837"
+          }
+        },
+        {
+          "client_id": "818369493294-cdckv97b0icbhlemtuq1fhamcfkn8cir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBneahH8Cjls48R5a0o_Cxd7wUsOD3ICg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818369493294-cdckv97b0icbhlemtuq1fhamcfkn8cir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
